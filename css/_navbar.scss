@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 45px;
+    margin-left: 115px;
+
+    img {
+        padding-left: 80px;
+    }
+
+    ul {
+        text-decoration: none;
+        display: flex;
+        gap: 33px;
+        padding-right: 160px;
+    }
+
+    li {
+        display: flex;
+        gap: 10px;
+    }
+}

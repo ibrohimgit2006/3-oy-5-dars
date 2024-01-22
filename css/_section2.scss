@@ -1,0 +1,132 @@
+.section2 {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+    position: absolute;
+    top: 2030px;
+    gap: 30px;
+}
+
+.box2 {
+    width: 350px;
+    height: 382px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background-color: #0E8784;
+    padding-left: 10px;
+
+
+    img {
+        width: 71px;
+        height: 72px;
+        margin-left: 130px;
+        margin-top: 100px;
+    }
+
+    h4 {
+        width: 255px;
+        color: #FEFCF7;
+        font-family: serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+        padding-left: 100px;
+        padding-top: 50px;
+    }
+
+    p {
+        width: 255px;
+        color: #FEFCF7;
+        text-align: center;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+}
+
+.box3 {
+    width: 350px;
+    height: 382px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background-color: #0E8784;
+    padding-left: 10px;
+
+    img {
+        width: 71px;
+        height: 72px;
+        margin-left: 130px;
+        margin-top: 100px;
+    }
+
+    h4 {
+        color: #FEFCF7;
+        font-family: serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+        padding-left: 75px;
+        padding-top: 50px;
+    }
+
+    p {
+        width: 255px;
+        color: #FEFCF7;
+        text-align: center;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+}
+
+.box4 {
+    width: 350px;
+    height: 382px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background-color: #0E8784;
+    padding-left: 10px;
+
+
+    img {
+        width: 71px;
+        height: 72px;
+        margin-left: 130px;
+        margin-top: 100px;
+    }
+
+    h4 {
+        width: 255px;
+        color: #FEFCF7;
+        font-family: serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+        padding-left: 100px;
+        padding-top: 50px;
+    }
+
+    p {
+        width: 255px;
+        color: #FEFCF7;
+        text-align: center;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+}
